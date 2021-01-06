@@ -1,5 +1,5 @@
 # Libasm
-Libasm is a basic asm x86_64 library, including the strcmp, strcpy, strlen, write, read functions.   
+Libasm is a basic asm x86_64 library, including the strcmp, strdup, strcpy, strlen, write, read functions.   
 More details are available in the subject attached.
 
 ## Getting started
